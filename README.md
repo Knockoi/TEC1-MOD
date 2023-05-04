@@ -3,18 +3,6 @@
   <img src="https://img.shields.io/badge/C++-USE-orange" alt="C++" />
   <img src="https://img.shields.io/badge/ESP32-USE-orange" alt="ESP32" />
   <img src="https://img.shields.io/badge/Data-OOC.Work-blue" alt="Data" />
-  <table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
   
   TEC1-MOD制冷片組精密控制模塊是一個強大的工具，可以精確地控制各種類型的制冷機組。該模塊利用先進的大數據技術，確保制冷機組以最大效率運行，同時最大限度地減少不必要的能源消耗，是重視能源效率和可持續發展的人們的最佳選擇。
  
@@ -37,7 +25,40 @@
 # 電路
 
 
-
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Knockoi/TEC1-MOD"><b>TEC1-MOD</b></a></td>
+      <td><a href="https://github.com/Knockoi/TEC1-MOD/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/Knockoi/TEC1-MOD?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/Knockoi/TEC1-MOD/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/Knockoi/TEC1-MOD?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/Knockoi/TEC1-MOD/issues"><img alt="Issues" src="https://img.shields.io/github/issues/Knockoi/TEC1-MOD?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/Knockoi/TEC1-MOD/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Knockoi/TEC1-MOD?style=flat-square&labelColor=343b41"/></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Knockoi/TEC1-MOD-clone"><b>ChatGPT-Clone</b></a></td>
+      <td><a href="https://github.com/Knockoi/TEC1-MOD-clone/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/xtekky/chatgpt-clone?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/xtekky/chatgpt-clone/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/xtekky/chatgpt-clone?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/xtekky/chatgpt-clone/issues"><img alt="Issues" src="https://img.shields.io/github/issues/xtekky/chatgpt-clone?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/xtekky/chatgpt-clone/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/xtekky/chatgpt-clone?style=flat-square&labelColor=343b41"/></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/mishalhossin/Discord-Chatbot-Gpt4Free"><b>ChatGpt Discord Bot</b></a></td>
+      <td><a href="https://github.com/mishalhossin/Discord-Chatbot-Gpt4Free/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/mishalhossin/Discord-Chatbot-Gpt4Free?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/mishalhossin/Discord-Chatbot-Gpt4Free/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/mishalhossin/Discord-Chatbot-Gpt4Free?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/mishalhossin/Discord-Chatbot-Gpt4Free/issues"><img alt="Issues" src="https://img.shields.io/github/issues/mishalhossin/Discord-Chatbot-Gpt4Free?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/mishalhossin/Coding-Chatbot-Gpt4Free/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mishalhossin/Discord-Chatbot-Gpt4Free?style=flat-square&labelColor=343b41"/></a></td>
+    </tr>
+  </tbody>
+</table>
 
 
 
