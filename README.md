@@ -44,7 +44,8 @@
       <td><a href="https://github.com/Knockoi/TEC1-MOD/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Knockoi/TEC1-MOD?style=flat-square&labelColor=343b41"/></a></td>
     </tr>
     <tr>
-   
+    </thead>
+  <tbody>
 
 
 
