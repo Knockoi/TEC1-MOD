@@ -3,7 +3,18 @@
   <img src="https://img.shields.io/badge/C++-USE-orange" alt="C++" />
   <img src="https://img.shields.io/badge/ESP32-USE-orange" alt="ESP32" />
   <img src="https://img.shields.io/badge/Data-OOC.Work-blue" alt="Data" />
-  
+  <table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
   
   TEC1-MOD制冷片組精密控制模塊是一個強大的工具，可以精確地控制各種類型的制冷機組。該模塊利用先進的大數據技術，確保制冷機組以最大效率運行，同時最大限度地減少不必要的能源消耗，是重視能源效率和可持續發展的人們的最佳選擇。
  
