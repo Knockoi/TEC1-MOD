@@ -42,10 +42,9 @@
       <td><a href="https://github.com/Knockoi/TEC1-MOD/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/Knockoi/TEC1-MOD?style=flat-square&labelColor=343b41"/></a></td>
       <td><a href="https://github.com/Knockoi/TEC1-MOD/issues"><img alt="Issues" src="https://img.shields.io/github/issues/Knockoi/TEC1-MOD?style=flat-square&labelColor=343b41"/></a></td>
       <td><a href="https://github.com/Knockoi/TEC1-MOD/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Knockoi/TEC1-MOD?style=flat-square&labelColor=343b41"/></a></td>
-    </tr>
-    <tr>
-    </thead>
-  <tbody>
 
+   </tr>
+  </tbody>
+</table>
 
 
