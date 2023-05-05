@@ -4,6 +4,8 @@
   <img src="https://img.shields.io/badge/ESP32-USE-orange" alt="ESP32" />
   <img src="https://img.shields.io/badge/Data-OOC.Work-blue" alt="Data" />
   
+  ![image](https://github.com/Knockoi/TEC1-MOD/blob/main/Image/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-04-29%20011950.png)  
+  
   TEC1-MOD制冷片組精密控制模塊是一個強大的工具，可以精確地控制各種類型的制冷機組。該模塊利用先進的大數據技術，確保制冷機組以最大效率運行，同時最大限度地減少不必要的能源消耗，是重視能源效率和可持續發展的人們的最佳選擇。
  
   憑借其靈活的控制選項，用於制冷片組的TEC1-MOD精密控制模塊可以被定制，以適應各種不同的應用。無論你需要手動控制、自動控制還是外部控制，該模塊都可以處理。此外，該模塊還包括強大的遠程監控功能，使您能夠實時關注您的制冷機組，並根據需要調整控制參數以保持最佳性能。
