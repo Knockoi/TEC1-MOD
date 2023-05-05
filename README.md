@@ -22,11 +22,17 @@
       <td><a href="https://github.com/Knockoi/TEC1-MOD/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/Knockoi/TEC1-MOD?style=flat-square&labelColor=343b41"/></a></td>
       <td><a href="https://github.com/Knockoi/TEC1-MOD/issues"><img alt="Issues" src="https://img.shields.io/github/issues/Knockoi/TEC1-MOD?style=flat-square&labelColor=343b41"/></a></td>
       <td><a href="https://github.com/Knockoi/TEC1-MOD/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Knockoi/TEC1-MOD?style=flat-square&labelColor=343b41"/></a></td>
-
-   </tr>
+ </tr>
+    <tr>
+      <td><a href="https://github.com/OOC-work/Exponential-Freeze"><b>ChatGpt Discord Bot</b></a></td>
+      <td><a href="https://github.com/OOC-work/Exponential-Freeze/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/OOC-work/Exponential-Freeze?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/OOC-work/Exponential-Freeze/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/OOC-work/Exponential-Freeze?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/OOC-work/Exponential-Freeze/issues"><img alt="Issues" src="https://img.shields.io/github/issues/OOC-work/Exponential-Freeze?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/OOC-work/Exponential-Freeze/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/OOC-work/Exponential-Freeze?style=flat-square&labelColor=343b41"/></a></td>
+    </tr>
   </tbody>
 </table>
-
+   
 
 
   ![image](https://github.com/Knockoi/TEC1-MOD/blob/main/Image/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-04-29%20011950.png)  
